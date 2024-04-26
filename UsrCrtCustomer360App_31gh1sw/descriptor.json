@@ -1,0 +1,23 @@
+﻿{
+  "Descriptor": {
+    "UId": "981b0604-6cd7-493a-9109-aee5a52d0f87",
+    "Name": "UsrCrtCustomer360App_31gh1sw",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1714132548000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrCrtCustomer360App_31gh1sw.csproj",
+    "DependsOn": [
+      {
+        "UId": "2ecba2bd-b810-47a5-a1b1-08c888529d6c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCustomer360App",
+        "Type": 1
+      },
+      {
+        "UId": "90ab90db-c904-50d8-8fcb-e65dfef40de1",
+        "Name": "DevClassic",
+        "Type": 1
+      }
+    ]
+  }
+}
